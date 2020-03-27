@@ -1,0 +1,58 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+body
+{
+    background-color: gainsboro;
+}
+ 
+.badan-utama
+{
+    max-width: 1080px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 15px;
+    overflow: hidden;
+}
+ 
+header
+{
+    background-color: crimson;
+    color: white;
+    padding: 5px;
+}
+ 
+header h2
+{
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+
+.menu-tengah h1
+{
+    text-align: center;
+    background: pink;
+    margin-bottom: 0;
+}
+
+.simpan
+{
+    background: pink;
+}
+
+.tombol
+{
+    background-color: pink;
+}
+
+footer
+{
+    clear: both;
+    background-color: crimson;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
